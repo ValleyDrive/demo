@@ -9,3 +9,4 @@ pull test
 merge test03
 merge test04
 가나다라마바
+main으로 돌아가서 아무거나 입력
